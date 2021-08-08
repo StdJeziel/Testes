@@ -1,6 +1,6 @@
 namespace Control.Models
 {
-    public class Model
+    public class Model1
     {
         
     }
